@@ -1,5 +1,4 @@
 # LearningBias
-Some small scripts to create and explain learning bias
 
 We did this work as an opening for a lecture about learning bias
 
