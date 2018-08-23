@@ -10,3 +10,4 @@ See LearnigBias - overview.pptx to see our work
 2. Give +X permissions to both scripts e.g chmod +x train_script.sh, chmod +x test_image.sh 
 3. Run train_script.sh to train your network, this will train the network under your tmp folder
 3. Run test_image.sh <test-image-path> e.g test_image.sh misleading_dog.jpg
+
